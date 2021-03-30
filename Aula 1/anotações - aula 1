@@ -1,0 +1,25 @@
+**CONVERSOR DE MOEDAS E VARIÁVEIS**
+
+Nesta aula foi apresentado como declarar e manipular variáveis no JAVASCRIPT de maneira básica, sendo assim, comandos como:
+
+**COMANDOS**
+
+**alert()** Solta um alerta dentro da tela do nosso programa, ou seja, um pop-up;
+
+**prompt()** Faz um pop-up de input dentro da tela do nosso programa;
+
+**parseInt()** Transforma alguma variável de um tipo que não seja o inteiro para o tipo inteiro;
+
+**parseFloat()** Transforma alguam variável de um tipo que não seja o real para o tipo real;
+
+**var** Comando utilizado para declarar as variáveis;
+
+**+** Comando de concatenação do JS;
+
+**=** Comando de atribuição do JS;
+
+**//** = Comentários dentro do JS;
+
+**.toFixed()** Comando para definir quantas casas decimais devem ser utilizadas em um float.
+
+// strings no JS são definidas a partir de aspas, sendo elas duplas (""), comuns ('') ou então crases (``), os significados de cada uma serão ditados mais pra frente.
