@@ -1,0 +1,11 @@
+MENTALISTA E LAÇOS
+
+console.log: Comando para mostrar os resultados das coisas dentro do console do nosso compilador.
+
+while: Como no Python e na maioria das línguagens de programação, é o comando que serve para fazer o programa entrar em um loop, que caso não seja finalizado, ele se torna infinito.
+
+break: Comando que serve para quebrar o while antes falado.
+
+&& = Símbolo de e no JS, próximo ao and do Python
+|| = Símbolo de ou no JS, próximo ao or do Python
+! = Símbolo de diferente no JS, próximo ao not do Python
