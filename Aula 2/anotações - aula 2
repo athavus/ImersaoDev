@@ -1,0 +1,19 @@
+anotações aula 2 Imersão Dev
+
+CALCULADORA E CONDICIONAIS
+
+Como escrever as coisas, sem ser por alerts:
+
+Para fazermos isso, iremos utlizar o document.write(), ele serve para escrever no próprio documento da página, utilizando a sintaxe document.write(""), ou seja, escreva neste documento o que está entre as aspas.
+
+Como utilizar as tags de dentro do HTML para interagir dentro do JavaScript:
+
+Para fazer isso, iremos estar utilizando as tags do HTML, ou seja, iremos abrir a tag <tag> + texto que desejamos colocar dentro de uma tag + </tag>, a partir disso, estaremos conseguindo formatar algum texto dentro de uma tag do HTML.
+
+COMANDOS CONDICIONAIS
+
+Em algum momento na programação iremos precisar dar diferentes resultados dependendo da condição que tivermos e para isso, iremos estar utilizando o comando if, else if e else, o if é o que delimita a primeira condição do programa, enquanto isso, o else if é para caso tenhamos mais de uma condição no código e o else é o comando para caso nenhuma das condições seja verdadeira.
+
+if: comando para definir a primeira condição
+else if: comando para definir da segunda condição até a penúltima
+else: comando que é ativado quando nenhuma das condições é verdadeira
