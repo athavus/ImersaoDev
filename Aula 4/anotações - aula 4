@@ -1,0 +1,11 @@
+ALURAFLIX E ARRAYS
+
+ARRAY: é o equivalente as listas do Python, sendo então uma váriavel composta, declarada inclusive da mesma forma.
+
+SINTAXE:
+
+var a = []
+
+push: é o equivalente ao append do Python, ou seja, ele irá colocar o elemento que estiver dentro dos seus parênteses na última posição da lista, a posição -1 no caso, como ela é um método, então a sintaxe dela será com o ponto, SINTAXE imaginando que temos uma lista chamada filmes e queremos adicionar o filme "Sara Sonaya - biografia":
+
+filmes.push("Sara Sonaya - biografia")
