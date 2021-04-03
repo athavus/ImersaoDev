@@ -1,4 +1,4 @@
-ALURAFLIX E ARRAYS
+<b>ALURAFLIX E ARRAYS</b>
 
 ARRAY: é o equivalente as listas do Python, sendo então uma váriavel composta, declarada inclusive da mesma forma.
 
@@ -9,3 +9,13 @@ var a = []
 push: é o equivalente ao append do Python, ou seja, ele irá colocar o elemento que estiver dentro dos seus parênteses na última posição da lista, a posição -1 no caso, como ela é um método, então a sintaxe dela será com o ponto, SINTAXE imaginando que temos uma lista chamada filmes e queremos adicionar o filme "Sara Sonaya - biografia":
 
 filmes.push("Sara Sonaya - biografia")
+
+.length():
+
+Mostra o tamanho de um ARRAY, não o número do último índice, mas sim o número corresponte ao número de elementos dentro da lista, como o len() do Python
+
+COMANDO FOR:
+
+Assim como no Python, o comando for faz uma iteração de laços com um range determinado, diferente do while que consegue fazer um loop infinito, o for tem sempre um fim, mas é da mesma forma um laço, ele é usado para casos onde temos noção do nosso índice.
+
+O for no JS funciona da mesma forma que o Python, porém a declaração do comando é um pouco diferente, ou seja, primeiro você declara a váriavel, depois a condição e depois o que está ocorrendo com a váriavel que antes for definida
