@@ -1,0 +1,31 @@
+function:
+
+É o equivalente as funções do Python, funcionando da mesma maneira, sua sintaxe é parecida com a de uma atribuição de váriavel, 
+porém com as chaves no final para definir os comandos que serão executados quando a função for chamada.
+
+document.querySelector('#váriaveldoHTML'):
+
+Este comando serve para selecionar o que estiver dentro de uma caixa de input do HTML, ou seja, ele consegue armazenar aquilo que 
+está sendo colocado dentro de uma mensagem de texto.
+
+endsWith():
+
+Comando que serve para checar se alguma variável termina com algo que esteja sendo declarado dentro de seus parentêses.
+
+.value:
+
+Método capaz de pegar apenas o valor real de alguma váriavel que armazene uma parte do HTML.
+
+Paramêtros:
+
+Da mesma forma que no Python, os paramêtros funcionam com o intuito de entregar alguma coisa do escopo global do programa para o 
+escopo da função, sendo essa coisa que ele entrega, algo com valor que será manipulado dentro da function.
+
+innerText:
+
+Mostra o texto contido dentro do HTML, porém, sem formatãção alguma, ou seja, no formato padrão do HTML.
+
+innerHTML:
+
+Diferente do innerText, o innerHTML retorna ao usuário o conteúdo de algo do HTML do código, porém, com todas as formatações usadas 
+no HTML, ou seja, ele mostra com todas as suas características.
