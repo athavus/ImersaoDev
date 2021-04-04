@@ -1,0 +1,21 @@
+OBJETOS DENTRO DO JAVASCRIPT
+
+Os objetos são variáveis que terão coisas sendo atríbuidas a elas, parecidas com os dicionários do Python, os objetos tem o intuito de caracterizar com mais detalhes uma variável, com a seguinte sintaxe, levando em consideração uma variável chamada paulo e dando características sobre ele:
+
+var paulo = {
+	nome: "Paulo",
+	idade: 25,
+	cidade: "São Paulo"
+}
+
+Assim temos uma variável que carrega três características, ou atributos.
+
+Da mesma forma, temos como acessar apenas um dos atributos:
+
+console.log(paulo.nome)
+
+Assim teremos saindo no console a saída "Paulo"
+
+getElementById:
+
+Este comando serve para encontrar dentro do HTML algum elemento, através do seu ID, que é definido dentro do próprio HTML.
