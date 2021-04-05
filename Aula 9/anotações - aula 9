@@ -1,0 +1,7 @@
+splice():
+
+Método que serve para retirar elementos de dentro de uma lista, ele precisa de dois paramêtros, o índice do elemento que ele vai remover e o número de elementos que ele irá remover a partir dele.
+
+pop():
+
+Método que também serve para retirar elementos de dentro de uma lista, diferente do splice, este não usa de índice, apenas remove o último elemento da lista.
