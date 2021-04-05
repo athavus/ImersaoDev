@@ -1,0 +1,16 @@
+getElementsByName:
+
+Comando que serve para achar itens do HTML de acordo com o seu nome que é descrito no próprio arquivo HTML.
+
+for utilizando uma lista como range:
+
+Para fazer o for girar com os itens de dentro de uma lista, basta usar o operador in que serve para identificar 
+quando algo deve ser referenciado com outra coisa que está dentro de uma lista, com a seguinte sintaxe, imaginando 
+uma variável i que entra dentro de uma lista chamada filmes.
+
+for (var i in filmes) {}
+
+.checked:
+
+Quando criarmos uma caixa de marcação dentro do nosso código, podemos utilizar o .checked para saber se ela está ativa ou 
+não, ou seja, se ela estiver verdadeira ou significa que ela está checada e se estiver falsa, significa que ela não está checada
